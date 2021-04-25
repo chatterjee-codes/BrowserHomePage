@@ -1,0 +1,15 @@
+body{
+    #background-image: url("background.jpg");
+    background-color: slategray;
+}
+
+.w3-display-bottommiddle{
+    background-color: transparent;
+    color: azure;
+}
+
+.w3-display-container{
+    margin: 20px;
+}
+
+ 
